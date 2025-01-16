@@ -1,1 +1,1 @@
-# sql_pizzas
+# this project about pizzas data set 
